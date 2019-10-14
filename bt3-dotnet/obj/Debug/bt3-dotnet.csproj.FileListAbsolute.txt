@@ -1,0 +1,10 @@
+D:\Source\me\bt1-dotnet\bt3-dotnet\bin\Debug\bt3-dotnet.exe.config
+D:\Source\me\bt1-dotnet\bt3-dotnet\bin\Debug\bt3-dotnet.exe
+D:\Source\me\bt1-dotnet\bt3-dotnet\bin\Debug\bt3-dotnet.pdb
+D:\Source\me\bt1-dotnet\bt3-dotnet\obj\Debug\bt3_dotnet.Properties.Resources.resources
+D:\Source\me\bt1-dotnet\bt3-dotnet\obj\Debug\bt3-dotnet.csproj.GenerateResource.cache
+D:\Source\me\bt1-dotnet\bt3-dotnet\obj\Debug\bt3-dotnet.csproj.CoreCompileInputs.cache
+D:\Source\me\bt1-dotnet\bt3-dotnet\obj\Debug\bt3-dotnet.exe
+D:\Source\me\bt1-dotnet\bt3-dotnet\obj\Debug\bt3-dotnet.pdb
+D:\Source\me\bt1-dotnet\bt3-dotnet\obj\Debug\bt3-dotnet.csprojAssemblyReference.cache
+D:\Source\me\bt1-dotnet\bt3-dotnet\obj\Debug\bt3_dotnet.Form1.resources

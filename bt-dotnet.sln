@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bt1-dotnet", "bt1-dotnet\bt1-dotnet.csproj", "{60DBC601-DB6F-4FAF-B748-74C4F8AA8AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bt3-dotnet", "bt3-dotnet\bt3-dotnet.csproj", "{EFA28037-D46B-43AC-8EAB-7119A5FC7B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60DBC601-DB6F-4FAF-B748-74C4F8AA8AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DBC601-DB6F-4FAF-B748-74C4F8AA8AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DBC601-DB6F-4FAF-B748-74C4F8AA8AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DBC601-DB6F-4FAF-B748-74C4F8AA8AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA28037-D46B-43AC-8EAB-7119A5FC7B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA28037-D46B-43AC-8EAB-7119A5FC7B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA28037-D46B-43AC-8EAB-7119A5FC7B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA28037-D46B-43AC-8EAB-7119A5FC7B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15403F5B-733B-46EF-A001-33C23F147452}
+	EndGlobalSection
+EndGlobal
